@@ -1,0 +1,22 @@
+
+
+
+/* shared styles */
+.nav-tital{
+    display: flex;
+    gap: 30px;
+    align-items: center
+
+}
+
+/* section styles */
+.header{
+    background-image: url('..images/Hero-bg.png');
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+.section-titel{
+    display: flex;
+    align-items: center;
+
+}
